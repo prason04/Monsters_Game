@@ -8,13 +8,6 @@ DEPENDENCIES
 ------------------------
 Map.h, Monsters.h, NormalSpace.h, Rooms.h, Shop.h, and Status.h must be in the same directory as the cpp files in order to compile.
 ------------------------
-SUBMISSION INFORMATION
-------------------------
-CSCI1300 Fall 2022 Project 3
-Author: Prachi Soni
-Recitation: 306 - Prachi Soni
-Date: Dec 1, 2022
-------------------------
 ABOUT THIS PROJECT
 ------------------------
 This project is about a traveler who's goal is to reach the end of their travels.

@@ -1,0 +1,81 @@
+--------------------
+Survival Point Packs - Letter: S
+--------------------
+4 KINDS:
+20 survival points pack - Letter: T
+40 survival points pack - Letter: O
+50 survival points pack - Letter: I
+100 survival points pack - Letter: H
+
+COST:
+20 survival points pack: 10 food points, 10 water points
+40 survival points pack: 20 food points, 20 water points
+50 survival points pack: 30 food points, 30 water points
+100 survival points pack: 50 food points, 50 water points
+
+
+-----------------
+Water Point Pack - Letter: W
+-----------------
+4 KINDS:
+20 water points pack - Letter: T
+40 water points pack - Letter: O
+50 water points pack - Letter: I
+
+COST:
+20 water points pack: 20 food points, 10 survival points
+40 water points pack: 30 food points, 20 survival points
+50 water points pack: 40 food points, 30 survival points
+
+
+----------------
+Food Point Pack - Letter: F
+----------------
+4 KINDS:
+20 food points pack - Letter: T
+40 food points pack - Letter: O
+50 food points pack - Letter: I
+
+COST:
+20 food points pack: 20 water points, 10 survival points
+40 food points pack: 30 water points, 20 survival points
+50 food points pack: 40 water points, 30 survival points
+
+
+------
+Tents - Letter: T
+------
+3 KINDS:
+Pop-Up - Letter: P
+Inflatable - Letter: I
+Multi-Room - Letter: M
+
+COST:
+Pop-Up: 20 survival points
+Inflatable: 30 survival points
+Multi-Room: 40 survival points
+
+
+------
+Armor - Letter: A
+------
+COST: 40 survival points
+
+
+-------
+Weapons - Letter: W
+-------
+Rope - Letter: R
+Wooden Club - Letter: C
+Wooden Sword - Letter: W
+Sword - Letter: S
+Flaming Sword - Letter: F
+Bow and Arrow - Letter: B
+
+COST:
+Rope: 10 survival points, 10 food points, 10 water points
+Wooden Club: 10 survival points, 10 food points, 10 water points
+Wooden Sword: 20 survival points, 20 food points, 20 water points
+Sword: 20 survival points, 20 food points, 20 water points
+Flaming Sword: 30 survival points, 30 food points, 30 water points
+Bow and Arrow: 50 survival points, 50 food points, 50 water points

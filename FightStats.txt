@@ -1,0 +1,19 @@
+Round 1 Status: 
+Your survival points: 600
+Monster survival points: 100
+Food points: 325
+Water points: 325
+ 
+Round 2 Status: 
+Your survival points: 550
+Monster survival points: 100
+Food points: 315
+Water points: 315
+ 
+Round 3 Status: You win!
+Boss Anger: 70
+Your survival points: 550
+Monster survival points: 0
+Food points: 315
+Water points: 315
+ 

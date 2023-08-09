@@ -1,0 +1,11 @@
+------------------
+PLAYER STATISTICS:
+------------------
+ 
+Note: If survival points, food points, or water points hits 0, it's game over!
+Survival points: 600
+Food points: 325
+Water points: 325
+Armor: Intact
+Boss Monster Anger: 20
+ 

@@ -10,7 +10,7 @@ Map.h, Monsters.h, NormalSpace.h, Rooms.h, Shop.h, and Status.h must be in the s
 ------------------------
 ABOUT THIS PROJECT
 ------------------------
-This project is about a traveler who's goal is to reach the end of their travels.
+This game is about a traveler who's goal is to reach the end of their travels.
 However that proves to be a challenge as the traveler (the player) comes up against numerous monsters.
 In order to get through their travels safely the player must be wary of the points they have for survival, food, water, and more as they make their way to the end of the game.
 They must make it to the end of the game without any of their points reaching zero, and must make sure that the boss monster's anger doesn't reach 100, else it's game over.
